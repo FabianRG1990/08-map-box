@@ -14,21 +14,49 @@ En esta aplicacion el enfoque principal es integrar librerias o codigo de JavaSc
 ### temas vistos en esta app:
 <p>
 1.Manejo de librerías escritas en JavaScript en TypeScript
+
 2.Uso de Mapas basados en Mapbox (el API es similar a la de Google Maps)
+
 3.Marcadores
+
 4.EventosFlyTo
+
 5.Coordenadas geográficas
+
 6.Componentes para re-utilización de mapas
+
 7.Mantener objetos de forma persistente
+
 8.@types
+
 9.Zoom
+
 10.Range
+
 11.Crear los componentes y rutas con angular schematics
+
 12.Archivo ENV y MapboxKey
+
 13.Crear env automáticamente
+
 14.ViewChild - ElementRef
+
 15.Guardar y leer del LocalStorage
+
 16.Actualizar storage cuando se mueven los marcadores
+
+17.Standalone Component
+¿Qué son?
+
+¿Para qué sirven?
+
+¿Cómo usarlos?
+
+¿Cómo cargarlos de forma perezosa?
+
+¿Cómo conectarlos entre sí?
+
+¿Cómo integrarlos en módulos y componentes tradicionales?
 </p>
 
 ### Paginas usadas:
