@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 
 import { MapsRoutingModule } from './maps-routing.module';
 import { MiniMapComponent } from './components/mini-map/mini-map.component';
-import { SideMenuComponent } from './components/side-menu/side-menu.component';
+import { SideMenuComponent } from '../alone/components/side-menu/side-menu.component';
 import { MapsLayoutComponent } from './layout/maps-layout/maps-layout.component';
 import { FullScreenPegeComponent } from './pages/full-screen-pege/full-screen-pege.component';
 import { MarkersPageComponent } from './pages/markers-page/markers-page.component';
@@ -18,7 +18,6 @@ import { ConterAloneComponent } from '../alone/components/conter-alone/conter-al
 @NgModule({
   declarations: [
     MiniMapComponent,
-    SideMenuComponent,
     MapsLayoutComponent,
     FullScreenPegeComponent,
     MarkersPageComponent,
@@ -28,7 +27,8 @@ import { ConterAloneComponent } from '../alone/components/conter-alone/conter-al
   imports: [
     CommonModule,
     MapsRoutingModule,
-    ConterAloneComponent
+    ConterAloneComponent,
+    SideMenuComponent
 
   ]
 })
