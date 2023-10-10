@@ -77,13 +77,14 @@ https://getbootstrap.com/
 1. Clonar el .env.template y renombrarlo a .env
 2. Llenar las variables de entrorno acorde
 3. Crear Angular Envs (opcional)
-
-"'npm rum envs'"
-
+  
+```
+npm rum envs
+```
 4. Para development ejecutar:
-
-'''npm rum start'''
-
+```
+npm rum start
+```
 
 5. Para produccion ejecutar:
 
