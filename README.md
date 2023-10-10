@@ -78,17 +78,23 @@ https://getbootstrap.com/
 2. Llenar las variables de entrorno acorde
 3. Crear Angular Envs (opcional)
 
+```
 npm rum envs
+```
 
 4. Para development ejecutar:
 
+```
 npm rum start
 ```
+
 
 5. Para produccion ejecutar:
 
 ```
 npm rum buil
+```
+
 </p>
 
 ## tecnologias usadas:
