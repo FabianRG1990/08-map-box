@@ -46,6 +46,7 @@ En esta aplicacion el enfoque principal es integrar librerias o codigo de JavaSc
 16.Actualizar storage cuando se mueven los marcadores
 
 17.Standalone Component
+
 ¿Qué son?
 
 ¿Para qué sirven?
