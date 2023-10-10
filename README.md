@@ -87,7 +87,9 @@ https://getbootstrap.com/
 
 5. Para produccion ejecutar:
 
+'''
 npm rum buil
+'''
 </p>
 
 ## tecnologias usadas:
